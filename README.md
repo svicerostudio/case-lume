@@ -29,7 +29,7 @@ Para habilitar contas e wishlist, execute `supabase/customer-accounts.sql` no SQ
 - `/sacola` — sacola e checkout pelo WhatsApp
 - `/sobre`, `/contato` e `/duvidas` — páginas institucionais
 - `/cadastro`, `/conta/login` e `/conta` — cadastro, login e área do cliente com wishlist
-- `/admin/login` — acesso administrativo
+- `/admin/login` — acesso administrativ
 
 ## Configuração
 
